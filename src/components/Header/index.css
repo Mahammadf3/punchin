@@ -1,0 +1,26 @@
+.headerContainer{
+    height:15vh;
+    position: sticky;
+    border-radius: 6px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: beige;
+    align-items: center;
+    width: 100vw;
+    margin-bottom: 12px;
+}
+.signupbcLogo{
+    height:10vh;
+   
+}
+.contactInfo{
+    margin-right: 16px;
+}
+.additionalContainer{
+    display: flex;
+}
+.complete{
+    margin: 12px;
+    text-decoration: none;
+}

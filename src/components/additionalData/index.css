@@ -1,0 +1,18 @@
+.additionalContainer2{
+display: flex;
+flex-direction: column;
+
+align-items: center;
+height:100vh;
+width:100vw;
+margin: 12px;
+}
+.cardData{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    box-shadow: 0px 4px 16px 0px blueviolet;
+    height:30vh;
+    width:90vw;
+    margin: 12px;
+}

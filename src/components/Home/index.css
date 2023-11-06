@@ -1,0 +1,38 @@
+.homeContainer{
+    background-image: url("https://img.freepik.com/premium-photo/top-view-man-work-with-laptop-with-accessory-office-desk-background_1921-729.jpg?w=2000");
+    height:100vh;
+    width:100vw;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+  
+}
+.welcomeContainer{
+ display: flex;
+ flex-direction: column;
+align-items: center;
+  
+}
+.punchContainer1{
+    display: flex;
+flex-direction: column;
+ justify-content: space-between;
+align-items: center;
+    box-shadow: 0px 4px 16px 0px gainsboro;
+    background-color: aliceblue;
+    height:30vh;
+    width: 30vw;
+    align-self: center;
+   
+}
+.punchButton{
+    width:120px;
+    margin:12px;
+    background-color: chartreuse;
+    cursor:pointer;
+    
+}
+.start{
+    color:blue;
+}
